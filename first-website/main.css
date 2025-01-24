@@ -1,0 +1,39 @@
+/*don't need style tags in .css doc */
+body {
+    background-color:gray;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+
+/* h1, h2 {
+    font-size: 30px;
+} */
+
+
+p {
+    color:dodgerblue;
+    background-color: lightgray;
+    border: 2px dashed;
+    padding: 50px;
+    text-align: center;
+}
+
+.special {
+    background-color:black;
+    font-size: 30px;
+    color: dodgerblue;
+}
+
+.highlight {
+    color:#ff00bb
+}
+
+img {
+    max-width: 100%;
+}
+
+/* auto comment: command forward slash  */
